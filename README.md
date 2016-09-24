@@ -8,6 +8,7 @@ This is intended to be a living collection of resources specific to the front-en
 - [Design Systems](http://mrmrs.io/writing/2015/10/06/design-systems/)
 - [Device Agnostic](http://trentwalton.com/2014/03/10/device-agnostic/)
 - [Supporting People](http://mrmrs.io/writing/2015/09/01/supporting-people/)
+- [Components](http://jxnblk.com/writing/posts/components/)
 - [Developing UI](http://mrmrs.io/writing/2016/04/21/developing-ui/)
 
 ##Accesibility

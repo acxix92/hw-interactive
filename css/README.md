@@ -4,6 +4,8 @@
 
 ###Watch
 - [Code Genius: Cascading Sh*t Show](https://www.youtube.com/watch?v=iniwPUEbPUM)
+- [Thinking beyond “Scalable CSS”](https://www.youtube.com/watch?v=L8w3v9m6G04)
+- [Architecting Scalable CSS](https://www.youtube.com/watch?v=KVHpHew5jAI)
 
 ###Listen
 - [Design Details: Cute Puppy Syndrome](https://spec.fm/podcasts/design-details/15975)
@@ -18,7 +20,9 @@
 ###Read
 - [Learning CSS](http://mrmrs.io/writing/2015/07/20/learning-css/)
 - [Functional CSS](http://eng.wealthfront.com/2013/08/20/functional-css-fcss/)
+- [5 Ways to not Shoot Yourself in the Foot](http://jxnblk.com/writing/posts/5-ways-to-not-shoot-yourself-in-the-foot-with-css/)
 - [What is CSS For?](http://mrmrs.io/writing/2013/04/11/what-is-css-for/)
+- [The Cascade, Specificity, and Inheritance](http://nicolasgallagher.com/css-cascade-specificity-inheritance/)
 - [Functional Programing, CSS & Your Sanity](http://www.jon.gold/2015/07/functional-css/)
 - [FCSS](http://eng.wealthfront.com/2013/08/20/functional-css-fcss/)
 - [Good CSS](http://mrmrs.io/writing/2014/08/11/good-css/)
@@ -31,7 +35,10 @@
 - [Mobile First CSS](http://mrmrs.io/writing/2014/08/18/mobile-first-css/)
 - [CSS and Scalability](http://mrmrs.io/writing/2016/03/24/scalable-css/)
 - [Code Smell](http://csswizardry.com/2012/11/code-smells-in-css/)
+- [Rethinking Variables](http://jxnblk.com/writing/posts/rethinking-variables-in-css/)
 - [BEM 101](https://css-tricks.com/bem-101/)
+- [Designing in Browser Faster](http://jxnblk.com/writing/posts/designing-in-the-browser-faster/)
+- [About normalize.css](http://nicolasgallagher.com/about-normalize-css/)
 
 ####The CSS At...
 - [Github](http://markdotto.com/2014/07/23/githubs-css/)
