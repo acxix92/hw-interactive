@@ -1,13 +1,11 @@
 #CSS
 
-##Primers
-
-###Watch
+##Watch
 - [Code Genius: Cascading Sh*t Show](https://www.youtube.com/watch?v=iniwPUEbPUM)
 - [Thinking beyond “Scalable CSS”](https://www.youtube.com/watch?v=L8w3v9m6G04)
 - [Architecting Scalable CSS](https://www.youtube.com/watch?v=KVHpHew5jAI)
 
-###Listen
+##Listen
 - [Design Details: Cute Puppy Syndrome](https://spec.fm/podcasts/design-details/15975)
 - [Shop Talk Show: 153 Mark Otto](http://shoptalkshow.com/episodes/153-mark-otto/)
 - [Design Details: Lego Bits](https://spec.fm/podcasts/design-details/16190)
@@ -17,7 +15,7 @@
 - [Shop Talk Show: 45 Harry Roberts](http://shoptalkshow.com/episodes/045-with-harry-roberts/)
 - [Shop talk Show: 159 Addy Osmani](http://shoptalkshow.com/episodes/159-with-addy-osmani/)
 
-###Read
+##Read
 - [Learning CSS](http://mrmrs.io/writing/2015/07/20/learning-css/)
 - [Functional CSS](http://eng.wealthfront.com/2013/08/20/functional-css-fcss/)
 - [5 Ways to not Shoot Yourself in the Foot](http://jxnblk.com/writing/posts/5-ways-to-not-shoot-yourself-in-the-foot-with-css/)
