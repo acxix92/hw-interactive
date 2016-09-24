@@ -50,5 +50,22 @@
 - [Trello](http://blog.trello.com/refining-the-way-we-structure-our-css-at-trello/)
 
 ##Style Guides
+- [Default U.S. Web Design Standards](https://standards.usa.gov/)
 - [CSS Guide Lines](http://cssguidelin.es/)
+- [Code Guide](http://codeguide.co/)
+- [WordPress](https://make.wordpress.org/core/handbook/best-practices/coding-standards/css/)
+- [Lonely Planet](http://rizzo.lonelyplanet.com/documentation/css/naming)
+- [Mapbox](https://www.mapbox.com/base/)
+
+##Frameworks
 - [Primer](http://primercss.io/)
+- [Bootstrap](http://getbootstrap.com/)
+- [Foundation](http://foundation.zurb.com/)
+- [Basscss](http://www.basscss.com/)
+- [Tachyons](http://tachyons.io/)
+- [Semantic UI](http://semantic-ui.com/)
+- [Material UI](http://www.material-ui.com/)
+- [Materialize](http://materializecss.com/)
+- [Gumby](http://www.gumbyframework.com/)
+- [Pure](http://purecss.io/)
+- [Leaf](http://getleaf.com/)
