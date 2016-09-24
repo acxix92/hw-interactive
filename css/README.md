@@ -17,7 +17,7 @@
 
 ###Read
 - [Learning CSS](http://mrmrs.io/writing/2015/07/20/learning-css/)
-- [Functional CSS]
+- [Functional CSS](http://eng.wealthfront.com/2013/08/20/functional-css-fcss/)
 - [What is CSS For?](http://mrmrs.io/writing/2013/04/11/what-is-css-for/)
 - [Functional Programing, CSS & Your Sanity](http://www.jon.gold/2015/07/functional-css/)
 - [FCSS](http://eng.wealthfront.com/2013/08/20/functional-css-fcss/)
