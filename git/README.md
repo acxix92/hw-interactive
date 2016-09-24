@@ -7,5 +7,5 @@
 - [Github Help](https://help.github.com/)
 - [Understanding the Github Flow](https://guides.github.com/introduction/flow/)
 
-## Things I Always Forget
-- [Configuring Remote Fork](https://help.github.com/articles/configuring-a-remote-for-a-fork/)
+## How To:
+- [Configure a Remote Fork](https://help.github.com/articles/configuring-a-remote-for-a-fork/)
