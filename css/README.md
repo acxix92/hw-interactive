@@ -4,6 +4,12 @@
 - [Watch](#watch)
 - [Listen](#listen)
 - [Read](#read)
+  * [The CSS At...](#the-css-at)
+- [Methodologies](#methodologies)
+- [Styleguides](#styleguides)
+- [Frameworks](#frameworks)
+
+---
 
 ##Watch
 - [Code Genius: Cascading Sh*t Show](https://www.youtube.com/watch?v=iniwPUEbPUM)
