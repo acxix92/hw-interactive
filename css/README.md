@@ -33,18 +33,21 @@
 - [Nesting in Sass and Less](http://markdotto.com/2015/07/20/css-nesting/)
 - [Mobile First CSS](http://mrmrs.io/writing/2014/08/18/mobile-first-css/)
 - [CSS and Scalability](http://mrmrs.io/writing/2016/03/24/scalable-css/)
+- [A Maintainable Style Guide](http://ianfeather.co.uk/a-maintainable-style-guide/)
 - [Code Smell](http://csswizardry.com/2012/11/code-smells-in-css/)
 - [Rethinking Variables](http://jxnblk.com/writing/posts/rethinking-variables-in-css/)
 - [BEM 101](https://css-tricks.com/bem-101/)
 - [Designing in Browser Faster](http://jxnblk.com/writing/posts/designing-in-the-browser-faster/)
 - [About normalize.css](http://nicolasgallagher.com/about-normalize-css/)
+- [Sass vs LESS](https://css-tricks.com/sass-vs-less/)
+- [Logic in Media Queries](https://css-tricks.com/logic-in-media-queries/)
 
 ####The CSS At...
-- [Github](http://markdotto.com/2014/07/23/githubs-css/)
-- [Medium](https://medium.com/@fat/mediums-css-is-actually-pretty-fucking-good-b8e2a6c78b06#.a99xdtdow)
-- [CodePen](http://codepen.io/chriscoyier/post/codepens-css)
-- [Lonely Planet](http://ianfeather.co.uk/css-at-lonely-planet/)
-- [Ghost](https://dev.ghost.org/css-at-ghost/)
+- [Github](http://markdotto.com/2014/07/23/githubs-css/) - Sass
+- [Medium](https://medium.com/@fat/mediums-css-is-actually-pretty-fucking-good-b8e2a6c78b06#.a99xdtdow) - LESS -> Rework (PostCSS)
+- [CodePen](http://codepen.io/chriscoyier/post/codepens-css) - Sass
+- [Lonely Planet](http://ianfeather.co.uk/css-at-lonely-planet/) - Sass
+- [Ghost](https://dev.ghost.org/css-at-ghost/) - Sass
 - [Groupon](http://mikeaparicio.com/2014/08/10/css-at-groupon/)
 - [Trello](http://blog.trello.com/refining-the-way-we-structure-our-css-at-trello/)
 
@@ -55,9 +58,13 @@
 - [WordPress](https://make.wordpress.org/core/handbook/best-practices/coding-standards/css/)
 - [Lonely Planet](http://rizzo.lonelyplanet.com/documentation/css/naming)
 - [Mapbox](https://www.mapbox.com/base/)
+- [KSS](https://github.com/kneath/kss)
+- [Sass Style Guide](https://css-tricks.com/sass-style-guide/)
 
 ##Frameworks
 - [Primer](http://primercss.io/)
+- [Suit](https://suitcss.github.io/)
+- [Intuit](https://github.com/csswizardry/inuit.css/)
 - [Bootstrap](http://getbootstrap.com/)
 - [Foundation](http://foundation.zurb.com/)
 - [Basscss](http://www.basscss.com/)
@@ -68,3 +75,5 @@
 - [Gumby](http://www.gumbyframework.com/)
 - [Pure](http://purecss.io/)
 - [Leaf](http://getleaf.com/)
+- [Skeleton](http://getskeleton.com/)
+- [Ratchet](http://goratchet.com/)
