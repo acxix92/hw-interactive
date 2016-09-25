@@ -4,6 +4,7 @@
 - [Code Genius: Cascading Sh*t Show](https://www.youtube.com/watch?v=iniwPUEbPUM)
 - [Thinking beyond “Scalable CSS”](https://www.youtube.com/watch?v=L8w3v9m6G04)
 - [Architecting Scalable CSS](https://www.youtube.com/watch?v=KVHpHew5jAI)
+- [Github's CSS Preformance](https://speakerdeck.com/jonrohan/githubs-css-performance)
 
 ##Listen
 - [Design Details: Cute Puppy Syndrome](https://spec.fm/podcasts/design-details/15975)
