@@ -6,7 +6,7 @@
 - [Read](#read)
   * [The CSS At...](#the-css-at)
 - [Methodologies](#methodologies)
-- [Styleguides](#styleguides)
+- [Styleguides](#style-guides)
 - [Frameworks](#frameworks)
 
 ---
