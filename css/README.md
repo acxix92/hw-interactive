@@ -34,6 +34,7 @@
 - [Mobile First CSS](http://mrmrs.io/writing/2014/08/18/mobile-first-css/)
 - [CSS and Scalability](http://mrmrs.io/writing/2016/03/24/scalable-css/)
 - [A Maintainable Style Guide](http://ianfeather.co.uk/a-maintainable-style-guide/)
+- [Sass Style Guide](https://css-tricks.com/sass-style-guide/)
 - [Code Smell](http://csswizardry.com/2012/11/code-smells-in-css/)
 - [Rethinking Variables](http://jxnblk.com/writing/posts/rethinking-variables-in-css/)
 - [BEM 101](https://css-tricks.com/bem-101/)
@@ -48,8 +49,15 @@
 - [CodePen](http://codepen.io/chriscoyier/post/codepens-css) - Sass
 - [Lonely Planet](http://ianfeather.co.uk/css-at-lonely-planet/) - Sass
 - [Ghost](https://dev.ghost.org/css-at-ghost/) - Sass
-- [Groupon](http://mikeaparicio.com/2014/08/10/css-at-groupon/)
+- [Groupon](http://mikeaparicio.com/2014/08/10/css-at-groupon/) - Sass
 - [Trello](http://blog.trello.com/refining-the-way-we-structure-our-css-at-trello/)
+
+##Methodologies
+- [BEM](http://getbem.com/)
+- [OOCSS](http://oocss.org/)
+- [SMACSS](https://smacss.com/)
+- [SUITCSS](http://suitcss.github.io/)
+- [Atomic](https://github.com/nemophrost/atomic-css)
 
 ##Style Guides
 - [Default U.S. Web Design Standards](https://standards.usa.gov/)
@@ -59,11 +67,9 @@
 - [Lonely Planet](http://rizzo.lonelyplanet.com/documentation/css/naming)
 - [Mapbox](https://www.mapbox.com/base/)
 - [KSS](https://github.com/kneath/kss)
-- [Sass Style Guide](https://css-tricks.com/sass-style-guide/)
 
 ##Frameworks
 - [Primer](http://primercss.io/)
-- [Suit](https://suitcss.github.io/)
 - [Intuit](https://github.com/csswizardry/inuit.css/)
 - [Bootstrap](http://getbootstrap.com/)
 - [Foundation](http://foundation.zurb.com/)
