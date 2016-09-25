@@ -10,6 +10,7 @@ This is intended to be a living collection of resources specific to the front-en
 - [Supporting People](http://mrmrs.io/writing/2015/09/01/supporting-people/)
 - [Components](http://jxnblk.com/writing/posts/components/)
 - [Developing UI](http://mrmrs.io/writing/2016/04/21/developing-ui/)
+- [Code Tells You How, Comments Tell You Why](https://blog.codinghorror.com/code-tells-you-how-comments-tell-you-why/)
 
 ##Accesibility
 - [Veil of Ignorance](http://mrmrs.io/writing/2016/03/23/the-veil-of-ignorance/)
